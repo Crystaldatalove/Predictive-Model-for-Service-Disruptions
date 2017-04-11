@@ -1,10 +1,14 @@
 # Predictive-Model-for-Service-Disruptions
 
+
 Objective: This company is interested in developing an advanced predictive model for service disruptions.
+
 
 Code: PBL Telecomm Project with Dmatrices method-Final-Copy1.ipynb notebook file.
 
+
 Dataset: event_type.csv, log_feature.csv, resource_type.csv, severity_type.csv, train.csv
+
 
 Dataset dictionary - the dataset consists of the following fields:
 
