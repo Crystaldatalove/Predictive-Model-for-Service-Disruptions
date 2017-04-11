@@ -27,3 +27,6 @@ Dataset dictionary - the dataset consists of the following fields:
 •Resource_Type: type of resource associated with that ID.
 
 •Severity_Type: type of severity level logged for that ID. 
+
+
+Final result: fault_severity_final.xlsx
